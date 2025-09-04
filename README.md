@@ -5,3 +5,5 @@
 Aivition 是一款图像类的 AI 软件，主要用途包括看图、截图、贴图、抠图、高清放大以及简单图像编辑，目前暂时只有 Windows 版本。
 
 当前最新版本：0.6.4
+
+![](https://github.com/Okery/Aivition/blob/main/assets/explorer.jpg)
