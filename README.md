@@ -1,15 +1,20 @@
-本仓库主要用于 Aivition 用户反馈问题、提出功能需要以及其它建议。
+This repository is primarily used for Aivition users to report issues, suggest feature requests, and provide other feedback.
 
-## Aivition 是什么?
+## What is Aivition?
 
-Aivition 是一款图像类的 AI 软件，主要用途包括看图、截图、贴图、抠图、高清放大以及简单图像编辑，目前暂时只有 Windows 版本。
+Aivition is a high-performance image processing tool that enables quick image viewing, gallery browsing, and photo editing, along with AI-powered background removal and HD upscaling features.
 
-当前最新版本：0.6.4
+Latest version：0.6.4
 
-[Aivition 主页](https://www.aivition.com/)
+[Aivition website](https://www.aivition.com/)
 
 ![image](https://github.com/Okery/Aivition/blob/main/assets/explorer.jpg)
 
-## Aivition 有什么特点？
+## What makes Aivition unique？
 
-Aivition 采用纯原生、零依赖的开发方式，所有功能均使用 C++ 从零实现。
+Aivition is developed using a pure native, zero-dependency approach. All features are built from the ground up, aiming to create a modern AI image software with high performance, excellent usability, and human-centric design for users.
+
+## Usage Instructions
+
+Aivition utilizes an activation mechanism. Test key: **LIGHT**
+
