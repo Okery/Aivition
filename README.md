@@ -4,7 +4,7 @@ This repository is primarily used for Aivition users to report issues, suggest f
 
 Aivition is a high-performance image processing tool for Windows, which enables quick image viewing, gallery browsing, and photo editing, along with AI-powered background removal and HD upscaling features.
 
-Latest version：1.0.2
+Latest version：1.0.3
 
 [Aivition website](https://www.aivition.com/)
 
