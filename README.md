@@ -6,10 +6,10 @@ Aivition is an all-in-one image processing tool. It's lightweight, launches quic
 
 ## :fire: Features in Action
 ### :mushroom: Custom RGB Channel Mixing
-![image](https://github.com/Okery/Aivition/blob/main/assets/rgb.png)
+![image](https://github.com/Okery/Aivition/blob/main/assets/mushroom.jpg)
 
 ### :sun_with_face: AI Face Swap
-![image](https://github.com/Okery/Aivition/blob/main/assets/face_swap.png)
+![image](https://github.com/Okery/Aivition/blob/main/assets/face_swap.jpg)
 
 ## :zap: Download
 ```
