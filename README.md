@@ -12,6 +12,9 @@ Aivition is an all-in-one image processing tool. It's lightweight, launches quic
 ![image](https://github.com/Okery/Aivition/blob/main/assets/face_swap.png)
 
 ## :zap: Download
+```
+git clone https://github.com/Okery/Aivition.git
+```
 [Download Here](https://www.aivition.com/ewrlklksd)
 - Supported Platforms: Windows 10/11
 - Portable Version: No installation required. Just extract and run.
