@@ -1,19 +1,22 @@
 Aivition
 =
-Aivition is an all-in-one image processing tool. It's lightweight, launches quickly, and lets you view images instantly or browse large collections in a smooth, cascading layout. It also features an infinite canvas, allowing you to freely arrange and organize images just like on your desktop. When you're ready to edit, simply right-click an image to bring up a menu of options—from basic cropping and rotating to AI-powered features like background removal, HD upscaling, and face swapping.
+Aivition is an all-in-one image processing tool. It's lightweight, launches quickly, and lets you view images instantly or browse large collections in a smooth, cascading layout. It also features an infinite canvas, allowing you to freely arrange and organize images just like on your desktop. When you're ready to edit, simply right-click an image to bring up a menu of options—from basic cropping and rotating to AI-powered features like background removal and HD upscaling.
 
 <div align="center">
   <img src="https://github.com/Okery/Aivition/blob/main/assets/viewer.jpg", width=60%>
 </div>
 
-## :fire: Features in Action
+## :fire: Features
 ### :mushroom: Custom RGB Channel Mixing
 <div align="center">
   <img src="https://github.com/Okery/Aivition/blob/main/assets/mushroom.jpg", width=40%>
 </div>
 
-### :sun_with_face: AI Face Swap
-![image](https://github.com/Okery/Aivition/blob/main/assets/face_swap.jpg)
+### :cactus: Matte
+![image](https://github.com/Okery/Aivition/blob/main/assets/matte.jpg)
+
+### :blossom: Restore
+![image](https://github.com/Okery/Aivition/blob/main/assets/restore.jpg)
 
 ## :zap: Download
 [Google Drive](https://drive.google.com/drive/folders/1HSem1l1nX0tomjDlpvycJ1Dx11DSnyHj?usp=sharing)
