@@ -1,6 +1,6 @@
 Aivition
 =
-Aivition is an all-in-one image processing tool. It's lightweight, launches quickly, and lets you view images instantly or browse large collections in a smooth, cascading layout. It also features an infinite canvas, allowing you to freely arrange and organize images just like on your desktop. When you're ready to edit, simply right-click an image to bring up a menu of options—from basic cropping and rotating to AI-powered features like background removal and HD upscaling.
+Aivition is an all-in-one image processing tool. It's lightweight, launches quickly, and lets you view images instantly. It also features an infinite canvas, allowing you to freely arrange and organize images just like on your desktop. When you're ready to edit, simply right-click an image to bring up a menu of options—from basic cropping and rotating to AI-powered features like background removal and HD upscaling.
 
 <div align="center">
   <img src="https://github.com/Okery/Aivition/blob/main/assets/viewer.jpg", width=60%>
